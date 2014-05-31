@@ -1,0 +1,15 @@
+'exception-reporting':
+  'userId': '5bd61f10-7887-f6aa-39ba-969057219792'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '8fd76054c4a6b99b810edc8f61b227f4cd4af54f'
+'editor':
+  'fontSize': 16
+  'showIndentGuide': true
+  'showInvisibles': true
+'core':
+  'themes': [
+    'atom-light-ui'
+    'solarized-light-syntax'
+  ]
